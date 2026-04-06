@@ -4,7 +4,7 @@ Selamat datang di repositori **Desain dan Pemrograman Web**. Repositori ini beri
 
 ## 👤 Identitas Mahasiswa
 * **Nama         :** Alfi Mariani
-* **NIm          :** 253307033
+* **Nim          :** 253307033
 * **Kelas        :** 2B
 * **Program Studi:** Teknologi Informasi
 * **Kampus       :** Politeknik Negeri Madiun
